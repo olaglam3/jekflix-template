@@ -1,12 +1,12 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: diaperexpert
+title: Jekflix | A site for mothers
+description: A site for moethers who love there baby.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - diaper
+  - baby
+  - cloth diaper
+  - all night diaper
+  - diaper cream
 email: youremail@xyz.com
 disqus_username: disqus_username
 show_hero: true
